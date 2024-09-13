@@ -1,7 +1,7 @@
 # Etch A Sketch
 
 ## Overview
-This is the day 18 project A of the course 100 Days of Code: The Complete Python Pro Bootcamp.The Etch-A-Sketch program replicates the classic drawing toy, allowing users to control a turtle to draw on the screen using keyboard inputs.
+This is the day 18 project A of the course 100 Days of Code: The Complete Python Pro Bootcamp. The Etch-A-Sketch program replicates the classic drawing toy, allowing users to control a turtle to draw on the screen using keyboard inputs.
 
 
 ## How It Works
