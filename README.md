@@ -1,4 +1,4 @@
-# Snake Game
+# Etch A Sketch
 
 ## Overview
 This is the day 18 project A of the course 100 Days of Code: The Complete Python Pro Bootcamp.
