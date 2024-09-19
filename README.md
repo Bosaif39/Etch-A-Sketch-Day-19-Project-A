@@ -20,7 +20,7 @@ This is the day 19 project A of the course 100 Days of Code: The Complete Python
 
 ## **Example**
 
-![alt text]()
+![alt text](https://github.com/Bosaif39/example-pics/blob/main/D_19A.PNG?raw=true)
 
 
 
